@@ -7,7 +7,7 @@ You need to [install Rust](https://www.rust-lang.org/tools/install) on your PC t
 I'm using 
 `$cargo --version
 cargo 1.77.2 (e52e36006 2024-03-26)` <br>
-If you installed Rust you need to [clone the repo](https://docs.github.com/de/repositories/creating-and-managing-repositories/cloning-a-repository) or just click on the "Code" Button and click on "Download ZIP"![pic of download code](https://helpdeskgeek.com/wp-content/pictures/2021/06/11CodeButtonDownloadZip.png)
+If you installed Rust you need to [clone the repo](https://docs.github.com/repositories/creating-and-managing-repositories/cloning-a-repository) or just click on the "Code" Button and click on "Download ZIP"![pic of download code](https://helpdeskgeek.com/wp-content/pictures/2021/06/11CodeButtonDownloadZip.png)
 <br><br>
 If you done everything correctly you should have a Zip or a Folder called "FiboClock" then you need to
 1. Unzip if needed
