@@ -14,3 +14,6 @@ If you done everything correctly you should have a Zip or a Folder called "FiboC
 2. Go into the directory with the console/terminal (if you don't know how [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj4jJD6sd-FAxXn3gIHHaksAsIQFnoECCAQAw&url=https%3A%2F%2Fwww.howtogeek.com%2F659411%2Fhow-to-change-directories-in-command-prompt-on-windows-10%2F%23%3A~%3Atext%3DIf%2520the%2520folder%2520you%2520want%2Cwindow%252C%2520and%2520then%2520press%2520Enter.&usg=AOvVaw26EF1rnoKEC2AhNFKjC-Zo&opi=89978449) is a tutorial)
 3. Run `cargo run --release`
 4. Have Fun
+## Troubleshooting
+If you are on Windows you need the [Microsoft Build Tools](https://visualstudio.microsoft.com/de/visual-cpp-build-tools/).
+Just install the selected packages and you are good to go.
